@@ -1,1 +1,9 @@
-A business themed site that i've created using HTML5/CSS3 & The Materialize framework that is cross-platform responsive, featuring an interactive Java Script Logaritmic Chart, scrollspy feature, and scrollfire (removed in Materialize v1.0.0, R.I.P.). Again, i've added some basic form verification, fixed navbar that starts transparent and turns solid once the screen is off-set by 1500px from the top.
+# BusinessSite
+This is a single page website that is cross-platform repsonsive, showcasing the following technologies and some of their features:
+  * HTML5
+  * CSS3
+  * CanvasJS. Logaritmic Chart
+  * Materialize Framework v0.100.2
+    * Scrollspy
+    * Scrollfire (removed in Materialize v1.0.0, R.I.P.)
+    * Form Validation
