@@ -6,6 +6,7 @@ This is a single page website that is cross-platform repsonsive, showcasing the 
   * Materialize Framework v0.100.2
     * Scrollspy
     * Scrollfire (removed in Materialize v1.0.0, R.I.P.)
+    * Sidenav
     * Form Validation
     
 ## Here's a link to the website (Deployed on Heroku)
